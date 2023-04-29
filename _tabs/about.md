@@ -36,6 +36,8 @@ Connect with customers in over 110 languages with our AI-powered chatbot
 
 <div class="row justify-content-center investors">
   <p>ChatGenius can integrate with a range of popular platforms and software, including:</p>
+
+
   <ul>
     <li>Discord</li>
     <li>Slack</li>
@@ -44,6 +46,8 @@ Connect with customers in over 110 languages with our AI-powered chatbot
     <li>CRM software</li>
     <li>Support software</li>
   </ul>
+
+  
   <p>By integrating ChatGenius with these platforms, you can streamline your operations and provide exceptional customer service across a range of channels.</p>
   <img width="300px" height="184px" src="https://chatgenius.one/static/Gfx/integrations.png">
 </div>
@@ -51,5 +55,5 @@ Connect with customers in over 110 languages with our AI-powered chatbot
 ### Conclusion
 
 <div class="row justify-content-center investors">
-  <p>If you're looking for a **powerful** and **versatile** chatbot to **enhance** your **customer service** experience, ChatGenius has you covered. With **multilingual support**, **24/7 availability**, **seamless integration**, and **customization options**, our chatbot can help you **connect** with customers from all over the world, **save time and money**, and **boost your sales**. Don't hesitate to try ChatGenius today and see the **difference** it can make for your business.</p>
+  <p>If you're looking for a <b>powerful</b> and <b>versatile</b> chatbot to <b>enhance</b> your <b>customer service</b> experience, ChatGenius has you covered. With <b>multilingual support</b>, <b>24/7 availability</b>, <b>seamless integration</b>, and <b>customization options</b>, our chatbot can help you <b>connect</b> with customers from all over the world, <b>save time and money</b>, and <b>boost your sales</b>. Don't hesitate to try ChatGenius today and see the <b>difference</b> it can make for your business.</p>
 </div>
