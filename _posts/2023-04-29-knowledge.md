@@ -3,7 +3,7 @@ title: Automate Your Knowledge Base with **ChatGenius**
 author: cotes
 date: 2023-04-29 20:10:00 +0800
 categories: [Blogging, Tutorial]
-tags: [**ChatGenius**, Tutorial]
+tags: [ChatGenius, Tutorial]
 render_with_liquid: false
 ---
 
