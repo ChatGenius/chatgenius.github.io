@@ -1,13 +1,10 @@
 ---
-layout: post
 title: Automate Your Knowledge Base with ChatGenius
-date: 2023-04-29 20:07:37 +/-TTTT
-categories: [Blogging, Tutorials]
-tags: [knowledge]     # TAG names should always be lowercase
----
-
----
-author: aydinnyunus
+author: cotes
+date: 2023-04-29 20:10:00 +0800
+categories: [Blogging, Tutorial]
+tags: [chatgenius, Tutorial]
+render_with_liquid: false
 ---
 
 As a business owner, you know that providing excellent customer support is essential to building a loyal customer base. However, creating and maintaining a comprehensive knowledge base can be time-consuming and resource-intensive. That's where ChatGenius comes in - a revolutionary chatbot that can help automate your customer support operations and provide fast, accurate answers to customer inquiries.
