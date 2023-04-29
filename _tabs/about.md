@@ -36,8 +36,8 @@ Connect with customers in over 110 languages with our AI-powered chatbot
 
 <div class="row justify-content-center investors">
   <p>ChatGenius can integrate with a range of popular platforms and software, including:</p>
-
-
+<br>
+<br>
   <ul>
     <li>Discord</li>
     <li>Slack</li>
@@ -47,7 +47,7 @@ Connect with customers in over 110 languages with our AI-powered chatbot
     <li>Support software</li>
   </ul>
 
-  
+
   <p>By integrating ChatGenius with these platforms, you can streamline your operations and provide exceptional customer service across a range of channels.</p>
   <img width="300px" height="184px" src="https://chatgenius.one/static/Gfx/integrations.png">
 </div>
