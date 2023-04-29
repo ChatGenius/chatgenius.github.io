@@ -15,8 +15,7 @@ But did you know that you don't have to add all the information to your knowledg
 
 With **GeniusScraper**, **ChatGenius** can automatically scrape relevant information from your website or other sources, and add it to your knowledge base. This means that **you don't have to spend hours manually entering information** into your knowledge base, and your customers can get **fast, accurate answers** to their questions.
 
-![img-description](/commons/knowledge.png)
-_Image Caption_
+![ChatGenius Landing Page](/commons/landing.png)
 
 ## What is **GeniusScraper**:
 
@@ -28,6 +27,8 @@ Here's how it works:
 - The **GeniusScraper** algorithm determines which information is relevant to your customers and what questions they might ask.
 - **ChatGenius** then adds this information to your knowledge base, organized by topic and subtopic.
 - When a customer asks a question, **ChatGenius** uses this information to provide a fast, accurate answer.
+
+![ChatGenius Knowledge Base](/commons/knowledge.png)
 
 ## The Benefits of **GeniusScraper**
 With **GeniusScraper**, you can automate your knowledge base and provide excellent customer support with minimal effort. Here are some of the key benefits:
