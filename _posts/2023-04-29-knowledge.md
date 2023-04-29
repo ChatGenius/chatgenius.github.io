@@ -1,6 +1,6 @@
 ---
-title: Automate Your Knowledge Base with **ChatGenius**
-author: cotes
+title: Automate Your Knowledge Base with ChatGenius
+author: aydinnyunus
 date: 2023-04-29 20:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [ChatGenius, Tutorial]
