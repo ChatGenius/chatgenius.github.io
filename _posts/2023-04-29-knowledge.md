@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Automate Your Knowledge Base with ChatGenius
 date: 2023-04-29 20:07:37 +/-TTTT
 categories: [Blogging, Tutorials]
